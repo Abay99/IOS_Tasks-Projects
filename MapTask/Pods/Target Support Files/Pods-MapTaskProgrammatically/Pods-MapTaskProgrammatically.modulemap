@@ -1,0 +1,6 @@
+framework module Pods_MapTaskProgrammatically {
+  umbrella header "Pods-MapTaskProgrammatically-umbrella.h"
+
+  export *
+  module * { export * }
+}
